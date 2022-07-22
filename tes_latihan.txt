@@ -2,3 +2,5 @@ Latihan
 -Belajat GIT
 -Belajar Programmer
 -Belajar GIT Bash
+-tambah 1
+-tambah 2
