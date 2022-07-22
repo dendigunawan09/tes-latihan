@@ -1,0 +1,4 @@
+Latihan
+-Belajat GIT
+-Belajar Programmer
+-Belajar GIT Bash
